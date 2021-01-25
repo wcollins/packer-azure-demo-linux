@@ -18,7 +18,7 @@
     "azure_tags": {
         "budget_id": "br12345",
         "business_unit": "Engineering",
-        "image_env": "non-prod",
+        "environment": "Non-Prod",
         "support_group": "OS Lifecycle Mgmt"
     },
 
