@@ -7,7 +7,7 @@
     "tenant_id": "{{user `tenant_id`}}",
     "subscription_id": "{{user `subscription_id`}}",
 
-    "managed_image_resource_group_name": "packer-images-rg",
+    "managed_image_resource_group_name": "demo-eastus-rg",
     "managed_image_name": "ubuntu-18.04-template",
 
     "os_type": "Linux",
