@@ -1,0 +1,12 @@
+// Create Service Principal via Azure CLI
+// az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx"
+
+{
+
+    "client_id": "",
+    "client_secret": "",
+    "tenant_id": "",
+    "subscription_id": "",
+    "token": ""
+  
+  }
