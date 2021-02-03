@@ -6,3 +6,5 @@ The Terraform configuration used to deploy this template can be found [here.](ht
 
 ### Packer Version
 This demo was completed using [Packer 1.6.6.](https://releases.hashicorp.com/packer/1.6.6/packer_1.6.6_linux_amd64.zip)
+
+![Packer Build](./images/packer-build.gif)
